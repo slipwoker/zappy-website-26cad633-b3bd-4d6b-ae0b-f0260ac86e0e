@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://pongobongodogs-26cad633.zappy5.app
+https://example.com
 חנות החיות המקוונת שלך בישראל עם אוכל לחיות מחמד, צעצועים לכלבים ועוד. כל המוצרים חוקיים ומאושרים. הצטרף עכשיו למסע איכות החיים לחיית המחמד שלך!
 
 ### ההבטחה שלנו
-https://pongobongodogs-26cad633.zappy5.app/our-promise
+https://example.com/our-promise
 אנחנו מתחייבים לספק רק מוצרים לבעלי חיים חוקיים ובטוחים בישראל. מהאוכל ועד הצעצוע, כל פריט עובר בדיקה קפדנית. גלו את השקט הנפשי שמגיע לכם ולחיית המחמד שלכם!
 
 ### מדריך לטיפול בחיות מחמד
-https://pongobongodogs-26cad633.zappy5.app/pet-care-guide
+https://example.com/pet-care-guide
 מדריך מקיף לטיפול בחיות מחמד עם עצות מעשיות על תזונה, משחק ואילוף. גלה איך להפוך כל יום להרפתקה מהנה ובריאה יותר עבור הכלב או החתול שלך!
 
 ### צור קשר
-https://pongobongodogs-26cad633.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת אוכל לחיות מחמד או צעצועים לכלבים? צוות המומחים שלנו כאן כדי לייעץ לכם בהתאמה אישית. צרו קשר עוד היום וקבלו שירות עם חיוך!
 
 ### Products
-https://pongobongodogs-26cad633.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - PongoBongoDogs
 
 ### Cart
-https://pongobongodogs-26cad633.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://pongobongodogs-26cad633.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://pongobongodogs-26cad633.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://pongobongodogs-26cad633.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://pongobongodogs-26cad633.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://pongobongodogs-26cad633.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - PongoBongoDogs
 
 ### Category
-https://pongobongodogs-26cad633.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - PongoBongoDogs
 
 ### תודה רבה - פנייתך התקבלה | PongoBongoDogs
-https://pongobongodogs-26cad633.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי עם המידע הטוב ביותר על אוכל לחיות מחמד ומוצרים לבעלי חיים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://pongobongodogs-26cad633.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://pongobongodogs-26cad633.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://pongobongodogs-26cad633.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Pet Supplies E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://pongobongodogs-26cad633.zappy5.app/sitemap.xml
-- Robots: https://pongobongodogs-26cad633.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://pongobongodogs-26cad633.zappy5.app/llms-full.txt
-- Products (JSON): https://pongobongodogs-26cad633.zappy5.app/products.json
-- Products (Google Merchant RSS): https://pongobongodogs-26cad633.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
